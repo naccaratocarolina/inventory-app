@@ -5,11 +5,10 @@
   </div>
   <div class="list-group list-group-flush">
     <a href="{{route('inventory.home')}}" class="list-group-item list-group-item-action bg-light">Dashboard</a>
-    <a href="#" class="list-group-item list-group-item-action bg-light">Shortcuts</a>
-    <a href="#" class="list-group-item list-group-item-action bg-light">Overview</a>
-    <a href="#" class="list-group-item list-group-item-action bg-light">Events</a>
-    <a href="#" class="list-group-item list-group-item-action bg-light">Profile</a>
-    <a href="#" class="list-group-item list-group-item-action bg-light">Status</a>
+    <a href="#" class="list-group-item list-group-item-action bg-light">View Inventories</a>
+    <a href="#" class="list-group-item list-group-item-action bg-light">New Inventory</a>
+    <a href="#" class="list-group-item list-group-item-action bg-light">Trash</a>
+    <a href="#" class="list-group-item list-group-item-action bg-light">Logout</a>
   </div>
 </div>
 <!-- /#sidebar-wrapper -->
