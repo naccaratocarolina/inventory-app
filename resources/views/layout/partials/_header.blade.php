@@ -5,7 +5,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Inventory App - @yield('page-title')</title>
+  <title>My Inventory App - @yield('page-title')</title>
 
   <!-- Bootstrap core CSS -->
   <link href="{{asset('/css/bootstrap.min.css')}}" rel="stylesheet">
