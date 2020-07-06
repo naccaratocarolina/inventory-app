@@ -1,4 +1,14 @@
-@extends('layouts.app')
+@yield('styles')
+
+@extends('layout.master')
+
+@section('sidenav')
+  {{--//--}}
+@endsection
+
+@section('navbar')
+  {{--//--}}
+@endsection
 
 @section('content')
 <div class="container">

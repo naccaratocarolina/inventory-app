@@ -1,4 +1,12 @@
-@extends('layouts.app')
+@extends('layout.master')
+
+@section('sidenav')
+  {{--//--}}
+@endsection
+
+@section('navbar')
+  {{--//--}}
+@endsection
 
 @section('content')
 <div class="container">

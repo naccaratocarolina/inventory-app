@@ -9,7 +9,7 @@
   <div class="d-flex" id="wrapper">
       <!-- Sidebar -->
       @section('sidebar')
-        @include('layout.partials._sidebar')
+        @include('layout.partials._sidenav')
       @show
 
       <div id="page-content-wrapper">
