@@ -20,6 +20,7 @@ class CreateInventoriesTable extends Migration
             $table->string('item');
             $table->integer('quantity');
             $table->unsignedBigInteger('user_id')->unique();
+            $table->softDeletes();
             $table->timestamps();
         });
 
